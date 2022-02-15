@@ -1,16 +1,14 @@
-### Hi there 👋
+### Привет! 👋
+Меня зовут Константин, мне 30 лет. 
+Я Frontend - разработчик!
 
-<!--
-**Chikistq/chikistq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Профессиональные навыки(стек):** 
+* Опыт разработки сайтов на основе дизайн-макетов, свободно владею **Figma**/**Photoshop**;
+* Владею **HTML5/CSS3, JS EC6, SASS/SCSS, babel, eslint, npm, git, jQuery, bootstrap.** Семантическая, кроссбраузерная, адаптивная/резиновая pixel perfect верстка, проходящая тест на переполнение контентом, с оптимизацией как верстки, так и изображений;
+* Опыт оптимизации скорости загрузки сайтов (**Google Lighthouse**, **PageSpeed Insights**), оптимизация изображений;
+* Знание **БЭМ**, **Accessibility**(доступность);
+* Знание сборщиков - **Gulp**, **Webpack**;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Контакты:** </br>
+tg: <a href="tg://resolve?domain=<@chikistq>">@chikistq</a> - предпочтительный способ связи! </br>
+email: fedorovkn@uidevelop.ru
