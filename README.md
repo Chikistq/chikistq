@@ -10,5 +10,5 @@
 * Знание сборщиков - **Gulp**, **Webpack**;
 
 **Контакты:** </br>
-tg: <a href="tg://resolve?domain=<@chikistq>">@chikistq</a> - предпочтительный способ связи! </br>
+tg: :link:[@chikistq](tg://resolve?domain=<@chikistq>) - предпочтительный способ связи! </br>
 email: fedorovkn@uidevelop.ru
